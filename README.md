@@ -2,11 +2,9 @@
 
 Saya Al-Fachrezi Three Aditya, seorang Mahasiswa Teknik Informatika di Universitas Lampung.<br>
 
-Selain kegiatan perkuliahan, saya aktif meningkatkan kompetensi dengan mengikuti kursus-kursus di platform seperti [Dicoding](https://www.dicoding.com/users/al_fachrezi/academies), di mana saya telah memperoleh beberapa sertifikasi.
+Selain menjalani perkuliahan, saya juga aktif mengembangkan kompetensi melalui berbagai kursus di platform [Dicoding](https://www.dicoding.com/users/al_fachrezi/academies), di mana saya telah memperoleh beberapa sertifikasi.
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](link).<br>
-
-Profil lengkap saya tersedia di [Linkedin](https://www.linkedin.com/in/al-fachrezi-three-aditya/).
+Profil lengkap saya dapat dilihat melalui [Linkedin](https://www.linkedin.com/in/al-fachrezi-three-aditya/).
 
 <p align="left">
 <a href="https://github.com/Altheeiya">
